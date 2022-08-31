@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 address:
-  street: Professional Building, 909 University Avenue
+  street: Locust Street Building, 615 Locust Street
   city: Columbia
   region: MO
   postcode: '65201'
@@ -35,13 +35,13 @@ address:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-email: jauthement@mail.missouri.edu
+email: smjrv8@mail.missouri.edu
 # phone: 888 888 88 88
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: '@Jacob_Authement'
-    link: 'https://twitter.com/Jacob_Authement'
+    name: '@StevenJokinsky'
+    link: 'https://twitter.com/StevenJokinsky'
 #   - icon: skype
 #     icon_pack: fab
 #     name: Skype Me
