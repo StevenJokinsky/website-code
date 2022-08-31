@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Jacob Authement # Website name
-baseurl: 'https://jacob-authement.netlify.app' # Website URL
-copyright: '© {year} Jacob Authement' # Footer text, e.g. '© {year} Me'
+title: Steven Jokinsky # Website name
+baseurl: 'https://stevenjokinsky.netlify.app' # Website URL
+copyright: '© {year} Steven Jokinsky' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
