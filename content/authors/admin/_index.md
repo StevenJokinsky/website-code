@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jacob Authement
+title: Steven Jokinsky
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,23 +14,23 @@ organizations:
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include American state politics, American political institutions, and interest groups.
+bio: I am a political science Ph.D. candidate at the Truman School of Government and Public Affairs at the University of Missouri. 
 
 # Interests to show in About widget
 interests:
-- American State Politics
-- American Political Institutions
-- Interest Group Politics
+- Party Competition
+- Comparative Political Behavior
+- Spatial Econometrics
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Political Science
     institution: University of Missouri
-    year: 2024 (expected)
-  - course: BA in Political Science and English Folklore
-    institution: University of Louisiana at Lafayette
-    year: 2019
+    year: 2023 (expected)
+  - course: B.S. in Political Science and Mathematics
+    institution: Murray State University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,16 +39,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jauthement@mail.missouri.edu'
+  link: 'mailto:smjrv8@mail.missouri.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Jacob_Authement
+  link: https://twitter.com/StevenJokinsky
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/JacobAuthement
+  link: https://github.com/StevenJokinsky
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
@@ -67,10 +67,10 @@ social:
 highlight_name: false
 ---
 
-_Hi! First things first, it's pronounced "Oh-Tee-Mon." Please, just call me Jacob._
+I am a political science Ph.D. candidate at the _[Truman School of Government and Public Affairs](https://truman.missouri.edu)_ at the University of Missouri. 
 
-I am a political science PhD candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. Before moving to Missouri, I recieved my BA in Political Science from the [University of Louisiana at Lafayette](https://politicalscience.louisiana.edu) _(Geaux Cajuns!)_. Professionally, my research interests include American state politics, American political institutions, interest groups, and legislative expertise. This research focuses on the interactions between state political institutions and nongovernment actors or interest groups, specifically focusing on how the former deals with or uses the latter for expertise in political issue areas or upcoming bills and decisions.
+My dissertation explore the mechanisms of policy diffusion between niche parties in Europe. Evidence suggests policymakers learn from contemporaries in other localities and adopt policies shown to be successful. In this regard, politicians and, broadly speaking, parties are no different. However, the mechanisms through which policy diffusion takes place between parties is still muddled. I examine transnational party organizations (henceforth, Europarties) as institutionalized pathways for policy diffusion between political elites to occur. I argue that Europarties create opportunities for members to exchange information through Europarty sponsored events, where party elites learn from those with successful policy strategies. This research furthers our current understanding of (1) the causal process through which policy diffusion occurs between political parties; (2) how political parties from other political systems influence the policy strategies of niche parties; and (3) whether transnational heuristics help niche parties be more electorally successful. Beyond my dissertation, I am broadly interested in political behavior with several research project exploring voting behavior, non-conventional political participation, and public opinion trends. 
 
-You can download my Curriculum Vitae {{< staticref "Authement_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+I am originally from New York and completed a B.S. at Murray State University in Political Science and Mathematics in Spring 2018. 
 
-As a bit of non-academic background, I was born and raised in the small town of Chauvin, located on the bayous of South Louisiana. I have several years of experience working in both state and local politics in Louisiana (through the Louisiana State Legislature and Lafayette Consolidated Government, respectively). If I am not researching state legislatures, you can usually find me waxing nostalgic about Louisiana cuisine (check out my family's cooking, beautifully recreated in my cousin Melissa Martin's restaurant, [here](https://mosquitosupperclub.com)), scrolling on Twitter to find new sneakers to buy, or speedrunning a video game... or probably a combination of all three.
+You can download my Curriculum Vitae {{< staticref "Jokinsky_CV.pdf" "newtab" >}}here{{< /staticref >}}.
