@@ -19,10 +19,23 @@ weight = 57
 +++
 <h2>University of Missouri</h2>
 
-_[Harry S Truman School of Government & Public Affairs](https://politicalscience.missouri.edu)_
+_Instructor_
++ Comparative Political Behavior, Fall 2022
++ Comparative Political Systems, Spring 2022 and Summer 2022 (Online) 
++ Introduction to American Government, Fall 2021
 
-+ Introduction to Political Research, POLSC 3000 - Instructor _(lab)_, Fall 2021
-+ Introduction to Political Research, POLSC 3000 - Instructor _(lab)_, Spring 2021
-+ State Government, POLSC 2100 - Instructor _(lab)_, Fall 2020
-+ Strategy and Warfare, POLSC 4412 - Teaching Assistant, Spring 2020
-+ American National Government, POLSC 1100 - Teaching Assistant, Fall 2019
+_Future Courses_
++ The Science of Politics, Spring 2023
+
+_Lab Instructor_
++ Introductory Statistics for Political Science, Fall 2020 
++ Introduction to Political Research, Spring 2019 and Fall 2019
+
+_Teaching Assistant_
++ Linear Models in Politics, Jake Haselswerdt, Spring 2021
++ Introductory Statistics for Political Science, James Endersby, Fall 2020 
++ Political Parties and Election Campaigns, James Endersby, Fall 2020 
++ Political Parties and Election Campaigns, Jay Dow, Spring 2020
++ Introduction to Political Research, Laron Williams, Spring 2019, Fall 2019, and Summer 2020
++ The Constitutional Debates, Jay Dow, Spring 2020 
++ The Judicial Process, William Horner, Fall 2018
