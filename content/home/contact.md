@@ -38,5 +38,5 @@ design:
 </style>
 
 <div class="google-maps">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3103.0010242934322!2d-92.32886148464819!3d38.94680497956312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87dcb7c12f162fdb%3A0x3e8428fb180903f4!2sProfessional%20Bldg%2C%20909%20University%20Ave%2C%20Columbia%2C%20MO%2065201!5e0!3m2!1sen!2sus!4v1621306472030!5m2!1sen!2sus" width="600" height="450" style="border:0"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3102.8723295350364!2d-92.33226038484517!3d38.9497449514623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87dcb7c5c5978b3d%3A0xf7ac560c262ce7a9!2sLocust%20Street%20Bldg%2C%20Columbia%2C%20MO%2065201!5e0!3m2!1sen!2sus!4v1661963514054!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
