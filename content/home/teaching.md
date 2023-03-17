@@ -20,12 +20,10 @@ weight = 57
 <h2>University of Missouri</h2>
 
 _Instructor_
++ The Science of Politics, Spring 2023
 + Comparative Political Behavior, Fall 2022
 + Comparative Political Systems, Spring 2022 and Summer 2022 (Online) 
 + Introduction to American Government, Fall 2021
-
-_Future Courses_
-+ The Science of Politics, Spring 2023
 
 _Lab Instructor_
 + Introductory Statistics for Political Science, Fall 2020 
