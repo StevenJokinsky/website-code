@@ -17,12 +17,16 @@ weight = 57
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
-<h2>University of Missouri</h2>
+<h2>University of Kentucky</h2>
 
 _Instructor_
 + British Politics, Fall 2023
 + Political Campaigns and Elections, Fall 2023
 + Introduction to Comparative Politics, Fall 2023
+
+<h2>University of Missouri</h2>
+
+_Graduate Instructor_
 + The Science of Politics, Spring 2023
 + Comparative Political Behavior, Fall 2022
 + Comparative Political Systems, Spring 2022 and Summer 2022 (Online) 
