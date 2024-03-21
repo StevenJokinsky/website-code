@@ -21,8 +21,9 @@ weight = 57
 
 _Instructor_
 + British Politics, Fall 2023
-+ Political Campaigns and Elections, Fall 2023
-+ Introduction to Comparative Politics, Fall 2023
++ Comparative Political Behavior, Spring 2024
++ Political Campaigns and Elections, Fall 2023 and Spring 2024
++ Introduction to Comparative Politics, Fall 2023 and Spring 2024
 
 <h2>University of Missouri</h2>
 
