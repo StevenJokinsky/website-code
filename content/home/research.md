@@ -22,7 +22,7 @@ weight = 20
 
 
 +++
-<h2>Peer-Reviewed</h2>
+<h2>Publications</h2>
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
