@@ -21,10 +21,10 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 address:
-  street: 1615 Patterson Office Tower, 120 Patterson Dr
-  city: Lexington
-  region: KY
-  postcode: '40506'
+  street: 2304 College Street
+  city: Cedar Falls
+  region: IA
+  postcode: '50614'
   country: United States
   country_code: US
 #coordinates:
@@ -35,7 +35,7 @@ address:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-email: steven.jokinsky@uky.edu
+email: steven.jokinsky@uni.edu
 # phone: 888 888 88 88
 contact_links:
   - icon: twitter
