@@ -37,7 +37,10 @@ Conclusion: The U.S. public is remarkably consistent in terms of its assessments
 # summary:
 
 tags:
-- 
+- Public opinion
+- Issue salience
+- Compositional models
+- Most important problem
 featured: false
 
 # links:
