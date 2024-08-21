@@ -20,19 +20,25 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Election Law Journal"
-# publication_short: "*B&P*"
+publication_short: "*ELJ*"
 
-# abstract: "This research examines the effectiveness of ballot access reforms which may increase voter turnout. While many reforms are designed to reduce individual costs of voting—to register, obtain, and cast a ballot—their impacts should be observable in the aggregate. U.S. states determine and administer rules concerning the conduct of elections, so the success of those rules should be measured for statewide elections. Existing research focuses on presidential elections. Yet if reforms influence levels of voter participation, stronger evidence of attracting peripheral voters should be found in midterm elections. This research examines state variation in electoral law on registration and voting in statewide, general elections from 2000 to 2018. Voting reforms evaluated include same-day registration, no-excuses absentee voting, early voting, and all-mail voting. Simple and multivariate analysis, including state-level demographic controls, suggest only limited effects of electoral innovations on voting-eligible turnout, in both midterm and presidential elections. Reforms designed to increase turnout produce at best modest positive effects."
+abstract: "This research examines the effectiveness of ballot access reforms which may increase voter turnout. While many reforms are designed to reduce individual costs of voting—to register, obtain, and cast a ballot—their impacts should be observable in the aggregate. U.S. states determine and administer rules concerning the conduct of elections, so the success of those rules should be measured for statewide elections. Existing research focuses on presidential elections. Yet if reforms influence levels of voter participation, stronger evidence of attracting peripheral voters should be found in midterm elections. This research examines state variation in electoral law on registration and voting in statewide, general elections from 2000 to 2018. Voting reforms evaluated include same-day registration, no-excuses absentee voting, early voting, and all-mail voting. Simple and multivariate analysis, including state-level demographic controls, suggest only limited effects of electoral innovations on voting-eligible turnout, in both midterm and presidential elections. Reforms designed to increase turnout produce at best modest positive effects."
 
 # Summary. An optional shortened abstract.
 # summary:
 
 tags:
-- 
+- Voter turnout
+- Electoral laws
+- Elections
+- Registration
+- State elections
+- Vote-by-mail
+- Early voting
 featured: false
 
 # links:
-# - name: "Social Science Quarterly"
+# - name: ""
 #   url: "
 url_pdf: ''
 url_code: ''
