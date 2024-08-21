@@ -26,16 +26,6 @@ weight = 20
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p>Authement, Jacob, Michelangelo Landgrave, and Nicholas Weller. 2023. <a href="https://www.jacobauthement.com/publication/AuthementLandgraveWeller2023">"Do Public Housing Agencies Discriminate Against Latinos? A Large-Scale Replication Study to Assess Discrimination"</a> <i>Journal of Behavioral Public Administration, 6(1)</i>. <a href="https://journal-bpa.org/index.php/jbpa/article/view/325">https://doi.org/10.30636/jbpa.61.325</a> </p>
-
-</div>
-
-<h2>Editor-Reviewed Book Chapters</h2>
-
-<div style="padding-left: 4em; text-indent: -4em;">
-
-<p>Anstett, Robert, & Jacob Authement. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022a">Comparing and Contrasting the U.S. and Missouri Constitutions</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
-
-<p>Anstett, Robert, & Jacob Authement. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022b">Comparing and Contrasting Political Institutions of the State of Missouri, the United States, and Other States</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
+<p> Jokinsky, Steven, Christine Lipsmeyer, Andrew Philips, Guy Whitten, and Laron K. Williams. 2024. <a href="https://www.stevenjokinsky.com/publication/jokinsky_look_2024">"Look Over There. Where? A Compositional Approach to the Modeling of Public Opinion on the Most Important Problem"</a> <i>JSocial Science Quarterly, 6(1)</i>. <a href="https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13360">https://doi.org/10.1111/ssqu.13360</a> </p>
 
 </div>
