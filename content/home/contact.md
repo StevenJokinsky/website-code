@@ -38,5 +38,5 @@ design:
 </style>
 
 <div class="google-maps">
-    <iframe src="https://maps.app.goo.gl/bP4bVDPRnGsdxSSZA" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2940.815628439994!2d-92.45802816037775!3d42.51672592531074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87e55550cd4c6767%3A0x744163eaf05ef287!2sCenter%20for%20Social%20and%20Behavioral%20Research!5e0!3m2!1sen!2sus!4v1724256530252!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
