@@ -24,13 +24,16 @@ publication_types: ["2"]
 publication: "Electoral Studies"
 # publication_short: "*B&P*"
 
-# abstract: This article reviews and analyzes the historical development, innovations, and challenges of election forecasting models in Britain. To anticipate challenges for forecasters, we proceed chronologically from Whiteley’s (1979) popularity model and Mughan’s (1987) political-economy model to the most recent forecasts in 2019. We then move on to discuss the desired characteristics of forecasts and assess the accuracy of ex-ante UK forecasts. This analysis reveals that while forecasters have had successes, certain elections have posed challenges. In 2015, the models failed to predict a Tory victory, and the snap elections in 2017 and 2019 left scholars with little time to generate and publish forecasts. We discuss the lessons learned and next steps for UK forecasters. And, throughout our article, we highlight the contributions of Harold Clarke who is remembered in this Electoral Studies symposium.
+abstract: This article reviews and analyzes the historical development, innovations, and challenges of election forecasting models in Britain. To anticipate challenges for forecasters, we proceed chronologically from Whiteley’s (1979) popularity model and Mughan’s (1987) political-economy model to the most recent forecasts in 2019. We then move on to discuss the desired characteristics of forecasts and assess the accuracy of ex-ante UK forecasts. This analysis reveals that while forecasters have had successes, certain elections have posed challenges. In 2015, the models failed to predict a Tory victory, and the snap elections in 2017 and 2019 left scholars with little time to generate and publish forecasts. We discuss the lessons learned and next steps for UK forecasters. And, throughout our article, we highlight the contributions of Harold Clarke who is remembered in this Electoral Studies symposium.
 
 # Summary. An optional shortened abstract.
 # summary:
 
 tags:
-- 
+- UK elections
+- Election forecasting
+- Forecasting models
+- Prediction
 featured: false
 
 # links:
