@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:smjrv8@mail.missouri.edu'
+  link: 'mailto:steven.jokinsky@uni.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/StevenJokinsky
