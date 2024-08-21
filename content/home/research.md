@@ -26,6 +26,6 @@ weight = 20
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p> Jokinsky, Steven, Christine Lipsmeyer, Andrew Philips, Guy Whitten, and Laron K. Williams. 2024. <a href="https://www.stevenjokinsky.com/publication/jokinsky_look_2024">"Look Over There. Where? A Compositional Approach to the Modeling of Public Opinion on the Most Important Problem"</a> <i>JSocial Science Quarterly, 6(1)</i>. <a href="https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13360">https://doi.org/10.1111/ssqu.13360</a> </p>
+<p> Jokinsky, Steven, Christine Lipsmeyer, Andrew Philips, Guy Whitten, and Laron K. Williams. 2024. <a href="https://www.stevenjokinsky.com/publication/jokinsky_look_2024">"Look Over There. Where? A Compositional Approach to the Modeling of Public Opinion on the Most Important Problem"</a> <i>Social Science Quarterly, 105(4)</i>. <a href="https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13360">https://doi.org/10.1111/ssqu.13360</a> </p>
 
 </div>
