@@ -26,9 +26,12 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Social Science Quarterly"
-# publication_short: "*B&P*"
+publication_short: "*SSQ*"
 
-# abstract: 
+abstract: "Objective: This study aims to test whether the American public is polarized and/or parallel in its assessments of the most important problem.
+Methods: We use compositional time series models and new data on public opinion to test for differences between subgroups.
+Results: We find inconsistent evidence of polarization for some issue areas but not others and remarkably robust evidence of parallel reactions across subgroups to economic and international shocks.
+Conclusion: The U.S. public is remarkably consistent in terms of its assessments of the most important problem and in how subgroups shift their perceptions of issue importance in reaction to changing circumstances."
 
 # Summary. An optional shortened abstract.
 # summary:
