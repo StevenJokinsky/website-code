@@ -6,15 +6,15 @@ title: Steven Jokinsky
 superuser: true
 
 # Role/position/tagline
-role: Political Science Teaching Postdoctoral Scholar
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Kentucky
-  # url: https://www.uky.edu
+- name: Center for Social and Behavioral Research at the University of Northern Iowa
+  # url: https://csbr.uni.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a political science Postdoctoral Teaching Scholar in the Political Science Department at the University of Kentucky. 
+bio: I am a Postdoctoral Scholar in the Center for Social and Behavioral Research at the University of Northern Iowa. 
 
 # Interests to show in About widget
 interests:
@@ -67,7 +67,7 @@ social:
 highlight_name: false
 ---
 
-I am a political science Postdoctoral Teaching Scholar in the _[Political Science Department](https://polisci.as.uky.edu)_ at the University of Kentucky. Prior to joining the University of Kentucky as a Postdoctoral Teaching Scholar in Fall 2023, I earned my PhD in political science from the University of Missouri with concentrations in comparative and American politics.
+I am a Postdoctoral Scholar in the _[Center for Social and Behavioral Research](https://polisci.as.uky.edu)_ at the University of Nothern Iowa. Prior to joining the Center for Social and Behavioral Research as a Postdoctoral Scholar in Fall 2024, I earned my PhD in political science from the University of Missouri with concentrations in comparative and American politics.
 
 My dissertation explores the mechanisms of policy diffusion between niche parties in Europe. Evidence suggests policymakers learn from contemporaries in other localities and adopt policies shown to be successful. In this regard, politicians and, broadly speaking, parties are no different. However, the mechanisms through which policy diffusion takes place between parties are still muddled. I examine transnational party organizations (henceforth, Europarties) as institutionalized pathways for policy diffusion between political elites to occur. I argue that Europarties create opportunities for members to exchange information through Europarty sponsored events, where party elites learn from those with successful policy strategies. This research furthers our current understanding of (1) the causal process through which policy diffusion occurs between political parties; (2) how political parties from other political systems influence the policy strategies of niche parties; and (3) whether transnational heuristics help niche parties be more electorally successful. Beyond my dissertation, I am broadly interested in political behavior, with several research projects exploring voting behavior, non-conventional political participation, and public opinion trends. 
 
