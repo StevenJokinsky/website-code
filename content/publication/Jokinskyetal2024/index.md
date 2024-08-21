@@ -1,16 +1,22 @@
 ---
-title: "Comparing and Contrasting the U.S. and Missouri Constitutions"
+title: "Look Over There. Where? A Compositional Approach to the Modeling of Public Opinion on the Most Important Problem"
 authors:
-- Robert Anstett
-- Jacob Authement
+- Steven Jokinsky
+- Christine S. Lipsmeyer
+- Andrew Q. Philips
+- Laron K. Williams
+- Guy D. Whitten
 author_notes:
-- "Truman School of Government and Public Affairs, University of Missouri"
-- "Truman School of Government and Public Affairs, University of Missouri"
-# date: "2021-01-25T00:00:00Z"
-# doi: "10.1017/bap.2020.17"
+- "Department of Political Science, University of Kentucky"
+- "Department of Political Science, Texas A&M University"
+- "Department of Political Science, University of Colorado Boulder"
+- "Department of Political Science, University of Missouri"
+- "Department of Political Science, Texas A&M University"
+# date: "2024-02-20T00:00:00Z"
+# doi: "10.1111/ssqu.13360"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-25T00:00:00Z"
+publishDate: "2024-04-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,23 +25,20 @@ publishDate: "2022-01-25T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Readings in American Politics"
+publication: "Social Science Quarterly"
 # publication_short: "*B&P*"
 
-# abstract: Current explanations of demand for anti-dumping protections focus on the role of the business cycle, and fluctuations in real exchange rates. However, empirical evidence supporting these explanations is based primarily on the experience of industrialized countries. Here, we examine anti-dumping petitions in a broader sample of thirty-four industrialized and middle income countries from 1978–2015. We also propose a new determinant of demand for anti-dumping petitions—changes in the pattern of industrial production between developed and developing economies over this period have contributed to deindustrialization in advanced economies and premature industrialization some developing countries. These changes threaten established industries and motivate them to demand protection.
+# abstract: 
 
 # Summary. An optional shortened abstract.
 # summary:
 
 tags:
-- state politics
-- American politics
-- American institutions
-- political institutions
+- 
 featured: false
 
 # links:
-# - name: "Readings in American Politics"
+# - name: "Social Science Quarterly"
 #   url: "
 url_pdf: ''
 url_code: ''
