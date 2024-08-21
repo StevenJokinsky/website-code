@@ -28,4 +28,8 @@ weight = 20
 
 <p> Jokinsky, Steven, Christine Lipsmeyer, Andrew Philips, Guy Whitten, and Laron K. Williams. 2024. <a href="https://www.stevenjokinsky.com/publication/jokinsky_look_2024">"Look Over There. Where? A Compositional Approach to the Modeling of Public Opinion on the Most Important Problem"</a> <i>Social Science Quarterly, 105(4)</i>. <a href="https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13360">https://doi.org/10.1111/ssqu.13360</a> </p>
 
+<p> Endersby, James and Steven Jokinsky. 2024. <a href="https://www.stevenjokinsky.com/publication/endersby_state_2024">"State Electoral Innovation and Voter Turnout in Midterm and Presidential Elections"</a> <i>Election Law Journal, 23(2)</i>. <a href="https://www.liebertpub.com/doi/10.1089/elj.2023.0013">https://doi.org/10.1089/elj.2023.0013</a> </p>
+
+<p> Stegmaier, Mary, Steven Jokinsky, and Michael S. Lewis-Beck. 2023. <a href="https://www.stevenjokinsky.com/publication/stegmaier_election_2023">"Election Forecasting: The evolution and accuracy of political economy models in the UK"</a> <i>Electoral Studies, 86</i>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0261379423001166">https://doi.org/10.1016/j.electstud.2023.102694</a> </p>
+
 </div>
