@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Research
-    url: https://stevenjokinsky.com/research
+    url: https://stevenjokinsky.com/
     weight: 20
   - name: Teaching
     url: '#teaching'
