@@ -2,7 +2,7 @@
 # Custom widget.
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
+widget = widget_page
  active = true
 # date = "2016-04-20T00:00:00"
 
@@ -26,7 +26,7 @@ widget = "custom"
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p> Jokinsky, Steven, Christine S. Lipsmeyer, Andrew Q. Philips, Laron K. Williams, and Guy D. Whitten. 2024. <a href="https://www.stevenjokinsky.com/publication/Jokinskyetal2024">"Look Over There. Where? A Compositional Approach to the Modeling of Public Opinion on the Most Important Problem"</a> <i>Social Science Quarterly, 105(4)</i>. <a href="https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13360">https://doi.org/10.1111/ssqu.13360</a> </p>
+<p> Jokinsky, Steven, Christine S. Lipsmeyer, Andrew Q. Philips, Laron K. Williams, and Guy D. Whitten. 2024. <a href="https://www.stevenjokinsky.com/research/publication/Jokinskyetal2024">"Look Over There. Where? A Compositional Approach to the Modeling of Public Opinion on the Most Important Problem"</a> <i>Social Science Quarterly, 105(4)</i>. <a href="https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13360">https://doi.org/10.1111/ssqu.13360</a> </p>
 
 <p> Endersby, James W. and Steven Jokinsky. 2024. <a href="https://www.stevenjokinsky.com/publication/EndersbyJokinsky2024">"State Electoral Innovation and Voter Turnout in Midterm and Presidential Elections"</a> <i>Election Law Journal, 23(2)</i>. <a href="https://www.liebertpub.com/doi/10.1089/elj.2023.0013">https://doi.org/10.1089/elj.2023.0013</a> </p>
 
