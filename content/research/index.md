@@ -2,17 +2,17 @@
 # Custom widget.
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-active = true
-date = "2016-04-20T00:00:00"
+widget = widget_page
+# active = true
+# date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Research"
+# title = "Research"
 # subtitle = ""
 
 
 # Order that this section will appear in.
-weight = 20
+# weight = 20
 
 # To add the link to the search function, remove this line, uncomment the following line, and move it to line 26.
 # For a full list of my research, use the search feature [here](https://www.jacobauthement.com/publication).
