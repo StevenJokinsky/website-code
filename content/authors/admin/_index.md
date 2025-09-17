@@ -19,7 +19,8 @@ bio: I am a Postdoctoral Scholar in the Center for Social and Behavioral Researc
 # Interests to show in About widget
 interests:
 - Party Competition
-- Comparative Political Behavior
+- Political Behavior
+- Survey Methodology
 - Spatial Econometrics
 
 # Education to show in About widget
